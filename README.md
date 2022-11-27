@@ -16,8 +16,9 @@ Parts List:
 5: 1.2k Resistor
 
 
-
-
-
-
 ![schematic](https://user-images.githubusercontent.com/91693276/204164013-ea207d16-8e1b-430a-ae99-20e0bfc3e425.jpg)
+
+
+
+![IMG_3579](https://user-images.githubusercontent.com/91693276/204164687-a229e924-9958-4aa3-9852-af7d77514063.JPEG)
+![IMG_3581](https://user-images.githubusercontent.com/91693276/204164689-8a10cbef-4a5e-455a-b33b-bd352713687d.JPEG)
