@@ -1,5 +1,5 @@
 esphome:
-  name: eps-fan-controller
+  name: esp-fan-controller
 
 esp8266:
   board: nodemcuv2
@@ -19,9 +19,8 @@ wifi:
 
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
-    ssid: "Eps-Fan-Controller"
+    ssid: "ESP-Fan-Controller"
     password: "rcLd0KlPnRkj"
-
    
 captive_portal:
     
@@ -42,7 +41,7 @@ sensor:
 
 ##### Debug for Wifi ####
   - platform: wifi_signal
-    name: "WiFi Signal Sensor ESP-fan"
+    name: "WiFi Signal Sensor"
     update_interval: 60s
 
     
@@ -58,5 +57,5 @@ output:
 fan:
   - platform: speed
     output: pwm_fan_output_blue
-    name: "PWM Fan blue "
+    name: "PWM Fan Blue"
     speed_count: 100
